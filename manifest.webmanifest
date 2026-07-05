@@ -1,0 +1,16 @@
+{
+  "name": "目標の系譜",
+  "short_name": "系譜",
+  "description": "人生・年・月・週・日の目標をひと続きに管理するアプリ",
+  "lang": "ja",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#EDEEEA",
+  "theme_color": "#EDEEEA",
+  "icons": [
+    { "src": "./icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "./icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "./icon-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
